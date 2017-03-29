@@ -1,0 +1,27 @@
+DemoPanel = {}
+local  this = DemoPanel;
+function DemoPanel.Create()
+print("56666666666")
+--CS.UnityEngine.GameObject.Find('Image'):GetComponent("Image").color = CS.UnityEngine.Color.red ;
+RSMG = CS.UnityEngine.GameObject.Find('MainManager'):GetComponent("ResourcesManager")
+RSMG:LoadPrefab('other', { 'Image'}, this.OnLoadFinish);
+--  CS.Demo.DemoTest();
+
+end
+
+function DemoPanel.OnLoadFinish(objs)
+  local canvas =  CS.UnityEngine.GameObject.Find("Canvas");
+	local go = CS.UnityEngine.GameObject.Instantiate(objs[0]);
+	go.transform:SetParent(canvas.transform);
+	go.transform.localPosition = CS.UnityEngine.Vector3(0,0,0);
+	go.transform.localScale = CS.UnityEngine.Vector3(1,1,1);
+
+  local toggle = go.transform:FindChild("Toggle").gameObject;
+  local button = go.transform:FindChild("Button").gameObject;
+
+  local luabehaviour = button:AddComponent(typeof(CS.LuaBehaviourPlus))
+  luabehaviour.luaScript = CS.LuaManager.GetTextAsset("ButtonToggle")
+  luabehaviour.injections = {{name = "toggle",value =toggle}}
+  luabehaviour.enabled = true
+
+end

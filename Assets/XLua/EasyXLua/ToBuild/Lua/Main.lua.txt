@@ -1,0 +1,25 @@
+print("lua start...23333333333")
+require "DemoPanel"
+require "CreateCube"
+
+local util = require 'xlua.util'
+
+function Main()
+DemoPanel.Create();
+CreateCube.Create();
+
+xlua.private_accessible(CS.HotfixedGo);
+xlua.hotfix(CS.HotfixedGo, {HotFixFunc1 = function(self) print(self.a..99999) ; end;
+                           HotFixFunc2 = function(self)  print(self.b..33333)end;
+                           Start = function(self)                             
+                                  return util.cs_generator(function()
+                                           while true do
+                                           coroutine.yield(CS.UnityEngine.WaitForSeconds(1));
+                                           self:HotFixFunc1();
+                                           coroutine.yield(CS.UnityEngine.WaitForSeconds(1));
+                                           self:HotFixFunc2();
+                                           end
+                                         end)
+                                   end;
+                           });
+end

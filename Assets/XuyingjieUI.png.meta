@@ -1,0 +1,1613 @@
+fileFormatVersion: 2
+guid: 7cef42c7cccf7ce44bea0d9d652c7c94
+timeCreated: 1488333081
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: XuyingjieUI_0
+    21300002: XuyingjieUI_1
+    21300004: XuyingjieUI_2
+    21300006: XuyingjieUI_3
+    21300008: XuyingjieUI_4
+    21300010: XuyingjieUI_5
+    21300012: XuyingjieUI_6
+    21300014: XuyingjieUI_7
+    21300016: XuyingjieUI_8
+    21300018: XuyingjieUI_9
+    21300020: XuyingjieUI_10
+    21300022: XuyingjieUI_11
+    21300024: XuyingjieUI_12
+    21300026: XuyingjieUI_13
+    21300028: XuyingjieUI_14
+    21300030: XuyingjieUI_15
+    21300032: XuyingjieUI_16
+    21300034: XuyingjieUI_17
+    21300036: XuyingjieUI_18
+    21300038: XuyingjieUI_19
+    21300040: XuyingjieUI_20
+    21300042: XuyingjieUI_21
+    21300044: XuyingjieUI_22
+    21300046: XuyingjieUI_23
+    21300048: XuyingjieUI_24
+    21300050: XuyingjieUI_25
+    21300052: XuyingjieUI_26
+    21300054: XuyingjieUI_27
+    21300056: XuyingjieUI_28
+    21300058: XuyingjieUI_29
+    21300060: XuyingjieUI_30
+    21300062: XuyingjieUI_31
+    21300064: XuyingjieUI_32
+    21300066: XuyingjieUI_33
+    21300068: XuyingjieUI_34
+    21300070: XuyingjieUI_35
+    21300072: XuyingjieUI_36
+    21300074: XuyingjieUI_37
+    21300076: XuyingjieUI_38
+    21300078: XuyingjieUI_39
+    21300080: XuyingjieUI_40
+    21300082: XuyingjieUI_41
+    21300084: XuyingjieUI_42
+    21300086: XuyingjieUI_43
+    21300088: XuyingjieUI_44
+    21300090: XuyingjieUI_45
+    21300092: XuyingjieUI_46
+    21300094: XuyingjieUI_47
+    21300096: XuyingjieUI_48
+    21300098: XuyingjieUI_49
+    21300100: XuyingjieUI_50
+    21300102: XuyingjieUI_51
+    21300104: XuyingjieUI_52
+    21300106: XuyingjieUI_53
+    21300108: XuyingjieUI_54
+    21300110: XuyingjieUI_55
+    21300112: XuyingjieUI_56
+    21300114: XuyingjieUI_57
+    21300116: XuyingjieUI_58
+    21300118: XuyingjieUI_59
+    21300120: XuyingjieUI_60
+    21300122: XuyingjieUI_61
+    21300124: XuyingjieUI_62
+    21300126: XuyingjieUI_63
+    21300128: XuyingjieUI_64
+    21300130: XuyingjieUI_65
+    21300132: XuyingjieUI_66
+    21300134: XuyingjieUI_67
+    21300136: XuyingjieUI_68
+    21300138: XuyingjieUI_69
+    21300140: XuyingjieUI_70
+    21300142: XuyingjieUI_71
+    21300144: XuyingjieUI_72
+    21300146: XuyingjieUI_73
+    21300148: XuyingjieUI_74
+    21300150: XuyingjieUI_75
+    21300152: XuyingjieUI_76
+    21300154: XuyingjieUI_77
+    21300156: XuyingjieUI_78
+    21300158: XuyingjieUI_79
+    21300160: XuyingjieUI_80
+    21300162: XuyingjieUI_81
+    21300164: XuyingjieUI_82
+    21300166: XuyingjieUI_83
+    21300168: XuyingjieUI_84
+    21300170: XuyingjieUI_85
+    21300172: XuyingjieUI_86
+    21300174: XuyingjieUI_87
+    21300176: XuyingjieUI_88
+    21300178: XuyingjieUI_89
+    21300180: XuyingjieUI_90
+    21300182: XuyingjieUI_91
+    21300184: XuyingjieUI_92
+    21300186: XuyingjieUI_93
+    21300188: XuyingjieUI_94
+    21300190: XuyingjieUI_95
+    21300192: XuyingjieUI_96
+    21300194: XuyingjieUI_97
+    21300196: XuyingjieUI_98
+    21300198: XuyingjieUI_99
+    21300200: XuyingjieUI_100
+    21300202: XuyingjieUI_101
+    21300204: XuyingjieUI_102
+    21300206: XuyingjieUI_103
+    21300208: XuyingjieUI_104
+    21300210: XuyingjieUI_105
+    21300212: XuyingjieUI_106
+    21300214: XuyingjieUI_107
+    21300216: XuyingjieUI_108
+    21300218: XuyingjieUI_109
+    21300220: XuyingjieUI_110
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XuyingjieUI_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 752
+        width: 100
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 974
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 974
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 988
+        width: 109
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 916
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 989
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 989
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 938
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 944
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 946
+        width: 248
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 940
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 924
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 949
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 942
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_14
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 944
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 946
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 891
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 917
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 917
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 894
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 888
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 916
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 808
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_23
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 408
+        width: 198
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 893
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 893
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 888
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 859
+        width: 144
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 846
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_29
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 872
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 850
+        width: 229
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 855
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 858
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 797
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 784
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 815
+        width: 114
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_36
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 719
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 781
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 782
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_39
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 808
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_40
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 805
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_41
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 807
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 790
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 790
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 788
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 790
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 791
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 724
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 725
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 725
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 716
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_51
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 718
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 617
+        width: 10
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_53
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 676
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_54
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 719
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_55
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_56
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 716
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 675
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 622
+        width: 258
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 675
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 675
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_61
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 622
+        width: 258
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_62
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 675
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_63
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 644
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_64
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 684
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_65
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 672
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_66
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 648
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_67
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 644
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_68
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 639
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 614
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 614
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_71
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 614
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_72
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 614
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 535
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 535
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 549
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 488
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 487
+        width: 14
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_78
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 453
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 462
+        width: 26
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_80
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 547
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_81
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 544
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_82
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 515
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_83
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 492
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_84
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 454
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_85
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 462
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_86
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 461
+        width: 161
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 431
+        width: 332
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 430
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 428
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 407
+        width: 408
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_91
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 311
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_92
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 305
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 325
+        width: 203
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_94
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 314
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_95
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 314
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_96
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 352
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_97
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 339
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 363
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_99
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 340
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_100
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 315
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_101
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 312
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_102
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 149
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_103
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 325
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_104
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 320
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_105
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 314
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_106
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 323
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_107
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 299
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_108
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 297
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_109
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 300
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XuyingjieUI_110
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 942
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

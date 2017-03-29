@@ -1,0 +1,5 @@
+print("login start...")
+require "CreateLoginPanel"
+function Login()
+CreateLoginPanel.Create();
+end

@@ -1,0 +1,54 @@
+CreateLoginPanel = {}
+local  this = CreateLoginPanel;
+local rapidjson = require "rapidjson"
+--local util = require 'xlua.util'
+local yield_return = (require 'cs_coroutine').yield_return
+
+
+function CreateLoginPanel.Create()
+RSMG = CS.UnityEngine.GameObject.Find('MainManager'):GetComponent("ResourcesManager")
+RSMG:LoadPrefab('other', { 'LoginPanel' }, this.OnLoadFinish);
+end
+
+
+
+function CreateLoginPanel.OnLoadFinish(objs)
+  local canvas =  CS.UnityEngine.GameObject.Find("Canvas");
+	local go = CS.UnityEngine.GameObject.Instantiate(objs[0]);
+	go.transform:SetParent(canvas.transform);
+	go.transform.localPosition = CS.UnityEngine.Vector3(0,0,0);
+	go.transform.localScale = CS.UnityEngine.Vector3(1,1,1);
+ local username = go.transform:FindChild("Username"):GetComponent("InputField");
+ local password = go.transform:FindChild("Password"):GetComponent("InputField");
+ local regist = go.transform:FindChild("Regist"):GetComponent("Button");
+ local login = go.transform:FindChild("Login"):GetComponent("Button");
+
+ login.onClick:AddListener(function()
+   --this.loginfunc(username,password)
+
+   coroutine.resume(CreateLoginPanel.loginfunc,username,password)
+
+ end);
+end
+
+
+
+CreateLoginPanel.loginfunc = coroutine.create(function(username,password)
+ while true do
+    local form = CS.UnityEngine.WWWForm();
+      form:AddField("username", username.text);
+      form:AddField("password", password.text);
+      local www= CS.UnityEngine.WWW("http://3d.api.medsci.cn/api/v2/user/login",form);
+       yield_return(www);
+       if not www.error then
+            local t = rapidjson.decode(www.text);
+            print(t.result.mobile);
+            local isSuccess,headcode = www.responseHeaders:TryGetValue("SERVER-RESPONSE-CODE");
+            print(isSuccess,headcode);
+     	else
+     	    print('error:', www.error);
+     	end
+      coroutine.yield();
+  end
+end
+)

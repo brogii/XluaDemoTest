@@ -1,0 +1,23 @@
+CreateCube = {}
+local  this = CreateCube;
+function this.Create()
+print("cube create")
+--CS.UnityEngine.GameObject.Find('Image'):GetComponent("Image").color = CS.UnityEngine.Color.red ;
+RSMG = CS.UnityEngine.GameObject.Find('MainManager'):GetComponent("ResourcesManager")
+RSMG:LoadPrefab('test', { 'CubeTest' }, this.OnLoadFinish);
+--  CS.Demo.DemoTest();
+
+end
+
+function this.OnLoadFinish(objs)
+
+	local go = CS.UnityEngine.GameObject.Instantiate(objs[0]);
+	go.transform.position = CS.UnityEngine.Vector3(0,-2,0);
+	go.transform.localScale = CS.UnityEngine.Vector3(1,1,1);
+  local luabehaviour = go:AddComponent(typeof(CS.LuaBehaviourPlus))
+  luabehaviour.luaScript =CS.LuaManager.GetTextAsset("CubeTest")
+
+
+luabehaviour.enabled = true
+
+end
